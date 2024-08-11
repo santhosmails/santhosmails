@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Santhosh 👋
 
-<!--
-**santhosmails/santhosmails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps Engineer | Cloud Enthusiast | Automation Advocate
 
-Here are some ideas to get you started:
+### 🔧 Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Containerization:** Docker, Kubernetes
+- **CI/CD:** Jenkins, GitHub Actions
+- **Cloud Platforms:** AWS, Google Cloud
+- **Infrastructure as Code (IaC):** Terraform, Ansible, CloudFormation
+- **Monitoring:** Prometheus, Grafana, ELK Stack
+- **Scripting:** Bash, Python
+
+### 🌱 What I'm Currently Learning
+
+- **Container Security:** Securing Docker container
+- **CKA:** Kubernetes networking
+
+### 📈 My DevOps Journey
+
+I’m passionate about automating everything, improving deployment pipelines, and working on cloud-native solutions. I believe in continuous learning and love to share my knowledge with the community.
+
+### 📚 Featured Projects
+
+- **[Project 1: Devopsified a go web application ](https://github.com/santhosmails/devops-go-web-app)**
+  - A fully automated CI/CD pipeline using Github Action, Dockerization, helm charts and Kubernetes. This project demonstrates my ability to set up end-to-end automation from code commit to production deployment.
+
+
+### 💬 Let's Connect
+
+- **LinkedIn** [Santhosh](https://www.linkedin.com/in/santhosh-kumar-s-786327184/)
+- **Twitter:** [@Santhostweets](https://x.com/Santhostweets)
+- **Personal Blog:** [Medium](https://medium.com/@santhosmails/)
+
+---
