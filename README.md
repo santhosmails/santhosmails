@@ -14,7 +14,7 @@
 ### 🌱 What I'm Currently Learning
 
 - **Container Security:** Securing Docker container
-- **CKA:** Kubernetes networking
+- **CKA:** Upgrading a Kubernetes Cluster
 
 ### 📈 My DevOps Journey
 
