@@ -7,7 +7,7 @@
 - **Containerization:** Docker, Kubernetes
 - **CI/CD:** Jenkins, GitHub Actions
 - **Cloud Platforms:** AWS, Google Cloud
-- **Infrastructure as Code (IaC):** Terraform, Ansible, CloudFormation
+- **Infrastructure as Code (IaC):** Ansible
 - **Monitoring:** Prometheus, Grafana, ELK Stack
 - **Scripting:** Bash, Python
 
